@@ -1,0 +1,11 @@
+Model Information:
+* title:	Proptober Day 4: Cookie Table
+* source:	https://sketchfab.com/3d-models/proptober-day-4-cookie-table-c2a7c16b8cdb483f8d47d628073979c2
+* author:	Nicholas DaRocha (https://sketchfab.com/LionRiderKing)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Proptober Day 4: Cookie Table" (https://sketchfab.com/3d-models/proptober-day-4-cookie-table-c2a7c16b8cdb483f8d47d628073979c2) by Nicholas DaRocha (https://sketchfab.com/LionRiderKing) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
